@@ -27,11 +27,10 @@
 
 ## 🧰 Tech Stack
 
-- **Java + Spring Boot** / **Node.js + Express**
+- **Java + Spring Boot**
 - **Docker + Docker Compose**
 - **RabbitMQ / Kafka** for asynchronous communication
 - **PostgreSQL / MongoDB / Redis**
-- **Swagger/OpenAPI** for API documentation *(optional if not using Swagger)*
 
 ## 🚀 Getting Started
 
